@@ -66,10 +66,16 @@ Load test
 ## Open circuit characteristics
 
 <img width="1280" height="621" alt="WhatsApp Image 2026-05-24 at 7 00 47 PM" src="https://github.com/user-attachments/assets/715017d4-5c34-4626-9c2e-e9875dddd268" />
+
+<img width="814" height="701" alt="image" src="https://github.com/user-attachments/assets/a7d408bf-d099-4bb3-959a-083526a5405a" />
+
  
 ## Load Characteristics:
 
 <img width="1280" height="609" alt="WhatsApp Image 2026-05-24 at 7 00 49 PM" src="https://github.com/user-attachments/assets/b9203d86-6831-4af8-9d9e-7e16f7680d35" />
+
+<img width="928" height="750" alt="image" src="https://github.com/user-attachments/assets/2d354307-66e1-4558-bcb4-abbe9604cc9e" />
+
 
 ## MODEL GRAPH:
 
